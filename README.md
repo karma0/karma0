@@ -11,7 +11,7 @@
 2025  TafyLabs — building the infrastructure layer production robotics is missing
 ```
 
-Bobby currently build robotics and cybersecurity infrastructure and agentic solutions. The [TafyLabs](https://github.com/TafyLabs) projects are the open-source R&D arm of [MindHive](https://mindhive.tech) — developer tooling, deployment pipelines, and observability systems for robots that need to work outside the lab.
+Bobby currently builds robotics & cybersecurity infrastructure and agentic solutions. The [TafyLabs](https://github.com/TafyLabs) projects are the open-source R&D arm of [MindHive](https://mindhive.tech) — developer tooling, deployment pipelines, and observability systems for robots that need to work outside the lab.
 
 #### Currently building:
 - [`LEANPipes`](https://github.com/TafyLabs/LEANPipes) — Automated work stream labeling and start/stop tagging on warehouse videos using on-site VLMs.
