@@ -2,11 +2,11 @@
 1986  First line of code (Commodore 64)
 1991  First robot
 1997  First neural network
-2007  First brain-computer interface
+2000  First brain-computer interface
 2013  AlchemyAPI → IBM Watson (employee #10)
 2014  Zero Day Initiative → TrendMicro
 2017  Bell Labs — embedded comms, 5G, GPS
-2019  Tanium — 1.25M endpoints, fleet ops at scale
+2019  Tanium — 1.25M endpoints, fleet ops automation at scale
 2023  MindHive — consulting/contracting robotic & agentic solutions architecture
 2025  TafyLabs — building the infrastructure layer production robotics is missing
 ```
