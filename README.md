@@ -15,8 +15,8 @@ Bobby currently builds robotics & cybersecurity infrastructure and agentic solut
 
 #### Currently building:
 - [`LEANPipes`](https://github.com/TafyLabs/LEANPipes) — Automated work stream labeling and start/stop tagging on warehouse videos using on-site VLMs.
-- [`Autobot`](https://github.com/TafyLabs/Autobot) — CI/CD that builds, sim-tests, and deploys firmware + ML models to edge devices.
 - [`FleetLink`](https://github.com/TafyLabs/FleetLink) — Vendor-agnostic fleet interconnectivity technology.
+- [`TafyStudio`](https://github.com/TafyLabs/TafyStudio) — A **distributed robotics operating system** — get your COTS hardware up and running in under 30 minutes.
 - A whole lot more ... 
 
 #### The angle:
