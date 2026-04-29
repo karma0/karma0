@@ -17,7 +17,7 @@ I build open-source infrastructure for production robotics — the tooling that 
 
 - [`ganglion`](https://github.com/TafyLabs/ganglion) — Hostile-network reachability for ROS 2 fleets. libp2p connectivity, WASM sandboxed tooling, native capability brokers. 13 crates, 254 tests, [on crates.io](https://crates.io/crates/gang). `cargo install gang`
 - [`tafystudio`](https://github.com/TafyLabs/tafystudio) — Distributed robotics operating system. Get COTS hardware up and running in under 30 minutes.
-- [`AgentSH`](https://github.com/TafyLabs/AgentSH) — AI-powered login shell combining traditional shell capabilities with an AI operations agent.
+- [`TafySH`](https://github.com/TafyLabs/TafySH) — AI-powered login shell wrapping bash/zsh/fish with LLM-powered natural language commands and multi-device orchestration. `pip install tafysh`
 
 #### The stack:
 
