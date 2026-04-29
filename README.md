@@ -4,26 +4,25 @@
 1997  First neural network
 2000  First brain-computer interface
 2013  AlchemyAPI → IBM Watson (employee #10)
-2014  Zero Day Initiative → TrendMicro
+2014  Zero Day Initiative → Trend Micro
 2017  Bell Labs — embedded comms, 5G, GPS
-2019  Tanium — 1.25M endpoints, fleet ops automation at scale
-2023  MindHive — consulting/contracting robotic & agentic solutions architecture
-2025  TafyLabs — building the infrastructure layer production robotics is missing
+2019  Tanium — 1.25M endpoints, fleet ops at scale
+2023  MindHive — agentic solutions architecture
+2025  Tafy Labs — production robotics infrastructure
 ```
 
-Bobby currently builds robotics & cybersecurity infrastructure and agentic solutions. The [TafyLabs](https://github.com/TafyLabs) projects are the open-source R&D arm of [MindHive](https://mindhive.tech) — developer tooling, deployment pipelines, and observability systems for robots that need to work outside the lab.
+I build open-source infrastructure for production robotics — the tooling that sits between "the demo worked" and "it runs on 50 robots in a warehouse at 3am." Founder of [Tafy Labs](https://github.com/TafyLabs). Technical lead at [Aktoh Cyber](https://github.com/Aktoh-Cyber).
 
-#### Currently building:
-- [`LEANPipes`](https://github.com/TafyLabs/LEANPipes) — Automated work stream labeling and start/stop tagging on warehouse videos using on-site VLMs.
-- [`FleetLink`](https://github.com/TafyLabs/FleetLink) — Vendor-agnostic fleet interconnectivity technology.
-- [`TafyStudio`](https://github.com/TafyLabs/TafyStudio) — A **distributed robotics operating system** — get your COTS hardware up and running in under 30 minutes.
-- A whole lot more ... 
+#### Currently shipping:
 
-#### The angle:
-4 decades building software, hardware, cloud infra, cybersecurity, AI/ML, embedded systems, and robotic solutions. The robotics software stack needs the same infrastructure patterns that power IT at scale — observability, CI/CD, fleet ops, OTA. Bobby's been building both sides of that bridge his entire career.
+- [`ganglion`](https://github.com/TafyLabs/ganglion) — Hostile-network reachability for ROS 2 fleets. libp2p connectivity, WASM sandboxed tooling, native capability brokers. 13 crates, 254 tests, [on crates.io](https://crates.io/crates/gang). `cargo install gang`
+- [`tafystudio`](https://github.com/TafyLabs/tafystudio) — Distributed robotics operating system. Get COTS hardware up and running in under 30 minutes.
+- [`AgentSH`](https://github.com/TafyLabs/AgentSH) — AI-powered login shell combining traditional shell capabilities with an AI operations agent.
 
-Eighteen robotic platforms. A custom 3D printer from scratch. A 15-node embedded Kubernetes cluster for serverless inference. 26 years of security engineering. And a growing conviction that the $120B robotics software market is missing its most important layer.
+#### The stack:
+
+ROS 2, libp2p, Wasmtime, Rust, Python, C++, NVIDIA Jetson, ESP32, n8n. I write about all of it at [automaton.run](https://automaton.run).
 
 ---
 
-📬 bobby@mindhive.tech · 🔗 [automaton.run](https://automaton.run) · 💼 [LinkedIn](https://linkedin.com/in/bobbyl)
+bobby@tafy.ai · [automaton.run](https://automaton.run) · [LinkedIn](https://linkedin.com/in/bobbyl)
